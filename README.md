@@ -5,7 +5,7 @@
 I'm a full-stack engineer with 4+ years of experience building enterprise-scale web applications used by 100K+ daily users. I specialize in creating performant, scalable solutions with Angular frontends, .NET Core backends, and Azure cloud infrastructure.
 
 ### 🔭 Currently Working On
-- Building enterprise web applications at [Newmark RF](https://www.newmark.com/)
+- Building enterprise web applications at **Newmark RF**
 - Modernizing legacy deployments toward containerized architectures (Docker)
 - Pursuing Microsoft Azure Developer Associate (AZ-204) certification
 
