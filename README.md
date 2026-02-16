@@ -49,12 +49,12 @@ Jasmine • Karma • Jest • TDD • Git • Postman • Swagger
 
 ### 🌟 Featured Projects
 
-#### [react-form-state-handler](https://github.com/S0npaRi11/react-form-state-handler)
+#### [react-form-state-handler](https://github.com/S0npaRi11/react-form-validator)
 Lightweight React form management library inspired by Angular Reactive Forms. Features advanced validation, error handling, and state management using React Hooks.
 
 **Tech Stack**: React • TypeScript • React Hooks • Jest • React Testing Library
 
-#### [udemy-notes-exporter](https://github.com/S0npaRi11/udemy-notes-exporter)
+#### [udemy-notes-extractor](https://github.com/S0npaRi11/udemy-notes-extractor)
 Chrome extension enabling export of Udemy course notes to HTML and Markdown formats. Addresses a common user frustration with 370+ active users.
 
 **Tech Stack**: JavaScript • Chrome Extension APIs • DOM Manipulation
